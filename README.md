@@ -1,6 +1,7 @@
 # Facebook UI clone using Flutter
 
 Some functions of these app are:
+- Flixible app bar.
 - Can move to create post page
 - Clickable like button
 - Can play video
