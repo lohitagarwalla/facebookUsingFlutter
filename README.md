@@ -10,7 +10,7 @@ Some functions of these app are:
 
 ## Some screenshots
 
-<img src="https://github.com/lohitagarwalla/private_files/blob/master/76771553_509362189668016_3029368883455721472_n.png" width="280"/> <img src="https://github.com/lohitagarwalla/private_files/blob/master/78479322_2489741787980775_2122764122641661952_n.png" width="280"/><img src="https://github.com/lohitagarwalla/private_files/blob/master/73409157_2136570399983656_644720070538297344_n.png" width="280"/>
+<img src="https://github.com/lohitagarwalla/private_files/blob/master/76771553_509362189668016_3029368883455721472_n.png" width="280"/>     <img src="https://github.com/lohitagarwalla/private_files/blob/master/78479322_2489741787980775_2122764122641661952_n.png" width="280"/>    <img src="https://github.com/lohitagarwalla/private_files/blob/master/73409157_2136570399983656_644720070538297344_n.png" width="280"/>
 
 
 
